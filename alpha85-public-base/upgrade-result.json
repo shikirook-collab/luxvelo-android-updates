@@ -1,0 +1,16 @@
+{
+  "upgrade": "84 -> 85",
+  "package": "ru.luxvelo.preview.test",
+  "uid_preserved": true,
+  "launch": "ok",
+  "control_setting": "theme_mode=dark chosen through app UI",
+  "system_theme": "light",
+  "setting_preserved": true,
+  "screen_background_luminance": {
+    "alpha84_light": 240,
+    "alpha84_dark": 34,
+    "alpha84_dark_relaunch": 42,
+    "alpha85_dark": 42
+  },
+  "home_and_chooser_navigation": "PASS"
+}
